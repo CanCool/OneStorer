@@ -10,6 +10,6 @@ import org.apache.maven.plugins.annotations.Mojo;
 public class GupaoDemo extends AbstractMojo{
     private String aaa = "";
     public void execute() throws MojoExecutionException, MojoFailureException {
-        System.out.print("gupao plugin !!!!!!!!!!");
+        System.out.print("gupao plugin !!!!!!!!!!！！");
     }
 }
